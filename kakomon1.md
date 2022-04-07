@@ -29,6 +29,7 @@ where X is the food item, L is its lowest price, H is its highest price, and M i
 </p>
 
 <h3>Sample Input </h3>
+1<br>
 3<br>
 banana 90<br>
 apple 100<br>
